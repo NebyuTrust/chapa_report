@@ -1,4 +1,4 @@
-- This library is used to calculate revenue from chapa generated CSV report.
+- This library or CLI app is used to calculate revenue from chapa generated CSV report.
 
 - It will calculate all successfull transactions, and return total revenue,
 tax, and profit.
