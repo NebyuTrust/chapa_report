@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "This library is used to calculate revenue from chapa report",
   "main": "./dist/index.js",
-  "scripts": {},
+  "scripts": {
+    "generate": "node ./dist/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/NebyuTrust/chapa_report.git"
@@ -18,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/NebyuTrust/chapa_report/issues"
   },
-  "homepage": "https://github.com/NebyuTrust/chapa_report#readme"
+  "homepage": "https://github.com/NebyuTrust/chapa_report#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.19"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
 }
