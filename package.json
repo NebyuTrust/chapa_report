@@ -1,0 +1,22 @@
+{
+  "name": "chapa_report",
+  "version": "1.0.0",
+  "description": "This library is used to calculate revenue from chapa report",
+  "main": "./dist/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NebyuTrust/chapa_report.git"
+  },
+  "keywords": [
+    "Chapa",
+    "Nebyu",
+    "Report"
+  ],
+  "author": "Nebyu Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NebyuTrust/chapa_report/issues"
+  },
+  "homepage": "https://github.com/NebyuTrust/chapa_report#readme"
+}
